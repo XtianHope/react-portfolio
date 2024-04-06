@@ -5,9 +5,8 @@ function Footer() {
     <footer>
       <p>Connect with me:</p>
       <div className="social-links">
-        <a href="#">GitHub</a>
-        <a href="#">LinkedIn</a>
-        <a href="#">Twitter</a>
+        <a href="https://github.com/XtianHope">GitHub</a>
+        <a href="www.linkedin.com/in/christiantino">LinkedIn</a>
       </div>
     </footer>
   );
